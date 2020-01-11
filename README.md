@@ -1,4 +1,4 @@
-# Arkademy-B12K3
+# Arkademy
 
 Nomer 1-5 dapat menjalankan program dengan bantuan XAMPP, download semua fime Nomer_[1-5].php dan dapat di pindahkan ke folder C:\xampp\htdocs setah itu aktifkan APACHE yang terdapat di XAMPP. buka browser dan ketik https://localhost/namafile.php akan terbuka sendiri hasil output program tersebut.
 
