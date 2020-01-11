@@ -1,0 +1,5 @@
+SELECT cashier.Nama as Cashier,product.Nama as Product ,category.Nama as Category,product.Price as Price 
+FROM product INNER JOIN cashier 
+on product.Id_Cashier=cashier.Id 
+INNER JOIN category 
+ON product.Id_Category=category.Id
